@@ -1,0 +1,20 @@
+header{
+    text-align: center;
+    margin-bottom: 80px;
+}
+h1{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+ul{ display: inline-block;
+    list-style-type: none;
+line-height: 2em;
+font-family: Georgia, 'Times New Roman', Times, serif;
+padding: 20px;
+
+}
+
+li{
+box-shadow: 1px 1px 8px 2px #444444;
+line-height:  50px;
+padding: 8px;
+margin-bottom: 20px;}
