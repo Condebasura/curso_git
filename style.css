@@ -18,3 +18,9 @@ box-shadow: 1px 1px 8px 2px #444444;
 line-height:  50px;
 padding: 8px;
 margin-bottom: 20px;}
+
+
+li:hover{
+    box-shadow: 1px 1px 8px 2px #765567;
+}
+
